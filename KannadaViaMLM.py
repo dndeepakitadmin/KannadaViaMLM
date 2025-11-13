@@ -36,7 +36,7 @@ def make_audio(text, lang="kn"):
 
 # ------------------ PAGE TITLE ------------------ #
 st.title("📝 Learn Kannada using Malayalam Script")
-st.subheader("മലയാളം ഉപയോഗിച്ച് ಕನ್ನಡ പഠിക്കുക")
+st.subheader("മലയാളം ഉപയോഗിച്ച് കന്നഡ പഠിക്കുക")
 
 text = st.text_area("Enter Malayalam text here:", height=120)
 
